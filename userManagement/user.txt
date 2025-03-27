@@ -1,2 +1,7 @@
 This is the new line
+<<<<<<< HEAD
 this is the new change for branching concepts
+=======
+
+second change made 
+>>>>>>> de1947dfa1d3beceb5c45f9674a6a0bff489b7ac
